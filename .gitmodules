@@ -1,3 +1,0 @@
-[submodule "TestMultiModuleChild"]
-	path = TestMultiModuleChild
-	url = https://github.com/y3k00000/TestMultiModuleChild.git
